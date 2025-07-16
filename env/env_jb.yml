@@ -99,6 +99,7 @@ dependencies:
   - openpyxl
   - seaborn
   - statsmodels
+  - texlive-core
 
 # installed pip dependencies like so- 
 # pip install environment_kernels jupyterhub-systemdspawner jupyterhub-idle-culler --no-deps
